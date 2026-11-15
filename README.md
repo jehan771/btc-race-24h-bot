@@ -1,8 +1,8 @@
 # btc-race-24h-bot
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/btc-race-24h-20261115-0828)
-[![make.fun race](https://img.shields.io/badge/make.fun-btc--race--24h-green)](https://make.fun/bounty/btc-race-24h-20261115-0828)
-[![make.fun live](https://img.shields.io/badge/make.fun-live%20race-orange)](https://make.fun/bounty/btc-race-24h-20261115-0828)
+[![make.fun · btc-race-24h-20261115-0828](https://make.fun/badge/btc-race-24h-20261115-0828.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![rank](https://make.fun/badge/btc-race-24h-20261115-0828/jehan771/btc-race-24h-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![reward](https://make.fun/badge/btc-race-24h-20261115-0828/jehan771/btc-race-24h-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
 
 Capitulation-buyer bot for the [make.fun btc-race-24h-20261115-0828](https://make.fun/bounty/btc-race-24h-20261115-0828)
 bounty: a long-only cbBTC/USDC trading bot on 1-minute bars, paper $1,000.
